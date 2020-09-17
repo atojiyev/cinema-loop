@@ -65,7 +65,10 @@
 }
 .box__title {
 	margin: 0;
+	padding-left: 10px;
+	padding-right: 10px;
 	margin-bottom: 20px;
+	text-align: center;
 	color: #a4a4a4;
 }
 .green__price {
